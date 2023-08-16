@@ -1,5 +1,3 @@
-//Write a Java Program to swap two numbers without using the third variable.
-
 import java.util.Scanner;
   
 class SwapTwoNumberWithoutThirdVariable
