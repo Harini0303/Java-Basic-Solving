@@ -1,5 +1,3 @@
-//Write a Java Program to iterate HashMap using While and advance for loop.
-
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
