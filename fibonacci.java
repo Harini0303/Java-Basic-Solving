@@ -1,5 +1,3 @@
-//Write a Java Program for the Fibonacci series.
-
 import java.util.Scanner;
  
 public class Fibonacci {
