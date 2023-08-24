@@ -1,4 +1,3 @@
-//Write a Java Program to find whether a number is prime or not.
 
 import java.util.Scanner;
  
